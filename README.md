@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my profile 🐱‍👓
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="100"/>
+  <img src=["https://giphy.com/embed/3oKIPnAiaMCws8nOsE"](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif) width="100"/>
   </div>
 I am starting with my programming career and trying to learn as much as possible on the way. 
 
