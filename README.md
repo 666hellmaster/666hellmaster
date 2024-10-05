@@ -15,7 +15,7 @@ I am starting with my programming career and trying to learn as much as possible
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   </div>  
   ---
-
+[![An image of @666hellmaster's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/666hellmaster)](https://holopin.io/@666hellmaster)
 
 ### :fire: My Stats :
 <a href="https://app.daily.dev/deathlifter"><img src="https://api.daily.dev/devcards/v2/4MVaHytNbvJDJgx7X1bvG.png?type=wide&r=s19" width="652" alt="Adam Růžička's Dev Card"/></a>
